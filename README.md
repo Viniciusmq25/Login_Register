@@ -41,5 +41,7 @@ Este projeto é um sistema de login simples utilizando PHP e MySQL
     - Inicie os serviços Apache e MySQL.
     - Navegue até a pasta do projeto no navegador:
         ```sh
-        http://localhost/LOGIN_REGISTER/
+        http://localhost/Login_Register/
+
+
         
